@@ -10,5 +10,6 @@
 ***
 #### MzVocaTest : MZ를 위한 어휘력 고사 웹 사이트 (2023.07~)
 #### github: [Github](https://github.com/Sejong-Java-Study/mz-voca-test)
+#### 세종대학교 공학인증 확인 사이트 (2023.12~)
 ***
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmltn9233)](https://solved.ac/gmltn9233/)
