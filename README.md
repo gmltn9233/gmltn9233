@@ -26,7 +26,7 @@
 #### github: [Github](https://github.com/Sejong-Java-Study/Gimme-Gonghak-Auth)
 ***
 #### MzVocaTest : MZ를 위한 어휘력 고사 웹 사이트 (2023.07~)
-#### github: [Github](https://github.com/Sejong-Java-Study/mz-voca-test)
+#### github: [Github](https://github.com/gmltn9233/MzVocaTest)
 ***
 #### DSbookstore : used book trade platform made only for Sejong Univ department of datascience students (2020.12.21 ~ 2021.02.20)
 #### github : [Github](https://github.com/gmltn9233/DSbookstore) | facebook of student union : [Facebook](https://ar-ar.facebook.com/permalink.php?story_fbid=2915189342139858&id=1815815088743961)
